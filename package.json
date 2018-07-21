@@ -1,0 +1,23 @@
+{
+  "name": "cordova-starter-template",
+  "version": "1.0.0",
+  "description": "A Cordova Template width the Browser Platform and the Crosswalk-Webview Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphzahn/cordova-starter-template.git"
+  },
+  "author": "RaphZahn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphzahn/cordova-starter-template/issues"
+  },
+  "homepage": "https://github.com/raphzahn/cordova-starter-template#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ]
+}
